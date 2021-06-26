@@ -1,0 +1,15 @@
+D:\VS_Codes\OuurWork\OuurWork\bin\Debug\OuurWork.exe.config
+D:\VS_Codes\OuurWork\OuurWork\bin\Debug\OuurWork.exe
+D:\VS_Codes\OuurWork\OuurWork\bin\Debug\OuurWork.pdb
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.csprojAssemblyReference.cache
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.Properties.Resources.resources
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.csproj.GenerateResource.cache
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.csproj.CoreCompileInputs.cache
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.exe
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.pdb
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.mainForm.resources
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.Citizens.resources
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.All_Info.resources
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.Village_Contracts.resources
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.Houses.resources
+D:\VS_Codes\OuurWork\OuurWork\obj\Debug\OuurWork.Souvenir.resources
